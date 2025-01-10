@@ -1,0 +1,119 @@
+.head-title{
+    display: flex;
+    justify-content: space-between;
+    margin: 24px 80px;
+    font-family:"Fira Sans", serif;
+}
+.fast-btn{
+    padding: 0px 30px;
+    color: #006A50;
+    border-radius: 5px;
+    border-color: #006A50;
+    font-size: 20px;
+    font-weight: 600;
+}
+.fast-title{
+    padding: 60px 0px;
+    /* margin: 12px 160px; */
+    /* font-weight: bold; */
+    /* font-size: 67px; */
+}
+.fast-head{
+    font-weight: bold;
+    font-size: 67px;
+    font-family:"Fira Sans", serif;
+}
+.fast-p{
+    font-size: 20px;
+    color: #0E0E0E;
+}
+.fast-h{
+    font-weight:600;
+}
+.btn{
+    background-color: #006A50;
+    color: white;
+    padding: 13px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px;
+}
+.fast-bg{
+    display: flex;
+    justify-content: space-between;
+    /* margin: 0 160px; */
+    background-color: #C6E4D6;
+    padding:20px 70px;
+    border-radius: 5px;
+    margin: 10px 60px;
+}
+nav{
+    font-family:"Fira Sans", serif;
+}
+.the-vision{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    gap: 30px;
+    /* border-radius: 10px; */
+    border: none;
+    border-radius: 10px;
+    /* margin: 0 90px; */
+    margin: 10px 15px;
+}
+.second-bg{
+    /* margin: 20px 160px; */
+    margin: 40px 60px;
+    color: #0E0E0E;
+    /* color: red; */
+    font-family:"Fira Sans", serif;
+}
+.second-head{
+    font-weight: bold;
+    font-size: 40px;
+}
+.raju{
+    background-color: rgba(84, 144, 245, 0.2);
+    padding: 32px;
+    border-radius: 10px;
+}
+.sam{
+    background-color:rgba(198, 228, 214, 1) ;
+    padding: 32px;
+    border-radius: 10px;
+}
+.babu{
+    background-color:rgba(247, 235, 207, 1) ;
+    padding: 32px;
+    border-radius: 10px;
+   
+}
+.raju-btn{
+    background-color:rgba(84, 144, 245, 1) ;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    color: white;
+}
+.sam-btn{
+    background-color: rgba(9, 161, 92, 1);
+    padding: 10px 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    color: white;
+
+}
+.babu-btn{
+    background-color:rgba(255, 194, 57, 1) ;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    color: white;
+
+}

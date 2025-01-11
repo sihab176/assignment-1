@@ -198,3 +198,70 @@ input::placeholder{
 .n-gap{
     background-color: rgba(198, 228, 214, 1);
 }
+.challeng{
+    text-align: center;
+    background-color: rgba(198, 228, 214, 1);
+    margin: 10px 60px;
+    padding:30px 100px;
+    border-radius: 10px;
+}
+input[type="email"]{
+    width: 40%;
+    height: 20px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px 0px 0 10px;
+    border-radius: left top;
+    border: none;
+
+}
+.Subscribe{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+.Subscribe button{
+    position:relative;
+    right: 0;
+    
+}
+input button{
+    position: absolute;
+    /* border: red; */
+}
+.end-btn{
+    background-color:rgba(0, 106, 80, 1) ;
+    padding: 18px;
+    border-radius: 0 10px 10px 0 ;
+    border: none;
+}
+.bolder{
+    font-weight:bold;
+    font-size: 40px;
+}
+.Subscribe input::placeholder{
+    text-align: left;
+}
+.challeng-sec{
+    font-family:"Fira Sans", serif;
+
+
+}
+.bg-cot{
+    background-color:rgba(238, 229, 229, 0.15);
+    padding: 20px 40px;
+    border-radius: 20px;
+   
+
+}
+.bg-img {
+    background-image: url("../assets/quote-bg.png");
+    /* background: no-repeat; */
+    background-repeat: no-repeat;
+    background-position: top left;
+    margin: 20px 70px;
+    border-radius: 10px;
+
+}

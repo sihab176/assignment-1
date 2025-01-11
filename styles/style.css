@@ -311,3 +311,33 @@ hr{
     /* justify-content: space-between; */
     /* padding: 20px; */
 /* } */
+.opsonal{
+    display: flex;
+    gap: 20px;
+    
+}
+.second-optional{
+    margin: 20px 60px;
+    /* gap: 20px; */
+    font-family:"Fira Sans", serif;
+}
+.fast-div{
+    background-color: rgb(252, 247, 247);
+    padding: 28px;
+    border-radius: 10px;
+}
+.second-div{
+    background-color: rgb(252, 247, 247) ;
+    padding: 28px;
+    border-radius: 10px;
+}
+.third-div{
+    background-color:  rgb(252, 247, 247);
+    padding: 28px;
+    border-radius: 10px;
+}
+.forth-div{
+    background-color:  rgb(252, 247, 247);
+    padding: 28px;
+    border-radius: 10px;
+}

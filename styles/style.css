@@ -44,7 +44,7 @@
     /* margin: 0 160px; */
     background-color: #C6E4D6;
     padding:20px 70px;
-    border-radius: 5px;
+    border-radius: 10px;
     margin: 10px 60px;
 }
 nav{
@@ -142,6 +142,7 @@ nav{
     border: none;
     border-radius: 5px;
     padding: 13px 20px;
+    h
 
 }
 .img-padding{
@@ -233,9 +234,12 @@ input button{
 }
 .end-btn{
     background-color:rgba(0, 106, 80, 1) ;
-    padding: 18px;
+    padding: 16px;
     border-radius: 0 10px 10px 0 ;
     border: none;
+    font-size: 17px;
+    color: white;
+
 }
 .bolder{
     font-weight:bold;
@@ -265,3 +269,45 @@ input button{
     border-radius: 10px;
 
 }
+.end-btn:hover{
+    background-color:rgb(49, 181, 233);
+}
+.all-btn:hover{
+    background-color: purple;
+}
+.last-btn:hover{
+    background-color: skyblue;
+}
+.raju-btn:hover{
+    background-color: palevioletred;
+}
+.babu-btn:hover{
+    background-color: palevioletred;
+}
+.sam-btn:hover{
+    background-color: palevioletred;
+}
+.btn:hover{
+    background-color: rgb(218, 13, 13);
+}
+.finis-bg{
+    text-align: center;
+    margin: 60px 30px;
+    gap: 40px;
+    font-family:"Fira Sans", serif;
+}
+hr{
+    width: 50%;
+    
+}
+.color{
+    /* border-color: gold; */
+    border: rgb(243, 237, 237);
+    background-color: rgb(245, 239, 239);
+    height: 4px;
+}
+/* .need-gap{ */
+    /* gap: 20px; */
+    /* justify-content: space-between; */
+    /* padding: 20px; */
+/* } */
